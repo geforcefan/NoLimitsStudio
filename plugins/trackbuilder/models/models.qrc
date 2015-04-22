@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>track.obj</file>
+        <file>pin.obj</file>
+    </qresource>
+</RCC>

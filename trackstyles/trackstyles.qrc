@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>trackstyles/CLASSIC_STEEL_LOOPING/Spine1-primaryTie.obj</file>
+        <file>trackstyles/CLASSIC_STEEL_LOOPING/Spine2-lastTie.obj</file>
+        <file>trackstyles/CLASSIC_STEEL_LOOPING/Spine2-primaryTie.obj</file>
+        <file>trackstyles/CLASSIC_STEEL_LOOPING/Spine3-primaryTie.obj</file>
+        <file>trackstyles/FLOORLESS_TWISTED_STEEL_COASTER/Spine1-primaryTie.obj</file>
+        <file>trackstyles/FLOORLESS_TWISTED_STEEL_COASTER/Spine1-alternativeTie.obj</file>
+        <file>trackstyles/FLOORLESS_TWISTED_STEEL_COASTER/SpineForm.txt</file>
+        <file>trackstyles/CLASSIC_STEEL_LOOPING/Spine2-connector.obj</file>
+    </qresource>
+</RCC>

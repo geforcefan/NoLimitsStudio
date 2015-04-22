@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/models">
+        <file>Footer.obj</file>
+        <file>Sky.obj</file>
+        <file>Footer/Base.jpg</file>
+        <file>Footer/Screws.jpg</file>
+    </qresource>
+</RCC>

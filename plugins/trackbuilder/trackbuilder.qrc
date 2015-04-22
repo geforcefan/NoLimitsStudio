@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qfvdcurve">
+        <file>images/addLinear.png</file>
+        <file>images/addNonLinear.png</file>
+    </qresource>
+</RCC>

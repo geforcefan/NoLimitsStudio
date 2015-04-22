@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>osxMain.frag</file>
+        <file>osxMain.vert</file>
+    </qresource>
+</RCC>
